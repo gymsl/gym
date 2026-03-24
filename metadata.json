@@ -1,0 +1,5 @@
+{
+  "name": "Brothers Gym Management System",
+  "description": "A modern gym management system using Web NFC technology for member tracking and automated billing.",
+  "requestFramePermissions": []
+}
